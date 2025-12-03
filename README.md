@@ -1,4 +1,4 @@
-# 🏡 CasaDlast – Furniture Store (Django + React)
+# 🏡   e-commerce demo – Furniture Store (Django + React)
 
 A full-stack furniture e-commerce demo site built with **Django REST API** and **React.js**.
 
